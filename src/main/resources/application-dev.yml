@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  context-path: /spring
+cupSize: B
+age: 20
+content: "cupSize: ${cupSize}, age : ${age} "
+girl:
+  age: 20
+  cupSize: B
