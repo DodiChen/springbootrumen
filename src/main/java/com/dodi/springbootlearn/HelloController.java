@@ -33,7 +33,7 @@ public class HelloController {
         //return content;
         //return girlProperties.getCupSize();
         //return "index";
-        return  "id2: " + id2;
+        return  "id2:   " + id2;
     }
 
 }
